@@ -1,0 +1,22 @@
+# Ignore the Anaconda environment directory
+myenv/
+
+# Ignore Python environment files
+*.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore IDE and editor specific files
+.vscode/
+
+# Ignore system files
+.DS_Store
+
+# Ignore Mac-specific files
+.AppleDouble
+.LSOverride
+
+# Ignore Windows-specific files
+Thumbs.db
+Desktop.ini
