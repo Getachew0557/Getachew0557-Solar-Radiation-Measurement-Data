@@ -4,6 +4,9 @@ myenv/
 # Ignore Python environment files
 *.env
 
+#Ignore the dataset
+data/
+
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
